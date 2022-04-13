@@ -56,7 +56,7 @@ time.sleep(1)
 print('Launch!')
 
 
-
+ 
 vessel.control.activate_next_stage()
 vessel.control.sas = True
 
