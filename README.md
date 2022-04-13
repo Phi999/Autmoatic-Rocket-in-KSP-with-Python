@@ -16,7 +16,12 @@ Go to other planets...
 And have fun !
 
 
-I made an automatic script in python(using the krpc python library  - connects to ksp on a local server)
+I made an automatic script in python(using the krpc python library  - connects to ksp on a local server) that controls a simple rocket (main.py)
+You need the KRPD mod for KSP + python 2.7 or older + PyCharm(or any other );
+
+
+
+
 
 
 
